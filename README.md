@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 ## 😄 ABOUT ME
 
-- 🔭 I’m currently pursuing Full Stack Development Career Program from **[Testbook](https://Testbook.com)** 
+- 🔭 I’m currently pursuing Full Stack Development Career Program from **[Testbook](https://Testbook.com)** Skill Academy.
 
-- 🌱 I’m currently learning **Node.js** and **React**
+- 🌱 I’m currently learning **Node.js** and **React** .
 
-- 👨‍💻 Check out **[My Portfolio](https://AnjaliSangekar.github.io/port-folio)**
+- 👨‍💻 Check out **[My Portfolio](https://AnjaliSangekar.github.io/port-folio)** .
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects** .
 
-- 📫 How to reach me **anjalisangekar1998@gmail.com**
+- 📫 How to reach me **anjalisangekar1998@gmail.com** 
 
-- ⚡ Hobbies **I love to read Books and Drawing**
+- ⚡ Hobbies **I love to read Books and Drawing** .
 
 
 ***
