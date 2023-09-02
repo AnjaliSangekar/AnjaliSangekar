@@ -36,12 +36,11 @@ Here are some ideas to get you started:
 
 <p align="left"> 
 
-    
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
+<h3>JAVA</h3>
+<h3>HTML</h3>
+<h3>CSS</h3>
+<h3>SQL</h3>
+<h3>JAVASCRIPT</h3>
 
 </p>
 
