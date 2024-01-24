@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 <h3>CSS</h3>
 <h3>SQL</h3>
 <h3>JAVASCRIPT</h3>
+<h3>JDBC</h3>
+<h3>JSP</h3>
+<h3>HIBERNATE</h3>
 
 </p>
 
